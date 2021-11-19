@@ -41,9 +41,9 @@ URL.terpsolutions =
   'https://j1am1ng.github.io/warehouseManagement/';
 URL.githubBagholder= 'https://lalbj.github.io/ali-fe/index.html';
 URL.githubHomeSweetHome = 'https://coooder-x.github.io/three.js-demo1/';
-/*URL.ryanfloyd = 'https://ryanfloyd.io';
-
-
+/*
+URL.solutions = "https://m.baidu.com";
+URL.ryanfloyd = 'https://ryanfloyd.io';
 URL.gitHub = 'https://github.com/MrRyanFloyd/Portfolio_2020';
 URL.twitter = 'http://m.baidu.com';
 URL.LinkedIn = 'https://www.linkedin.com/in/ryan-floyd/';

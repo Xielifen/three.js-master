@@ -1000,7 +1000,7 @@ Ammo().then((Ammo) => {
       -10,
       -70,
       billboardTextures.textTexture,
-      URL.terpsolutions,
+      URL.solutions,
       Math.PI * -0.15
     );
 
