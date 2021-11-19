@@ -2,7 +2,7 @@
 let billboardTextures = {};
 billboardTextures.terpSolutionsTexture = '../src/jsm/1.png';
 billboardTextures.bagHolderBetsTexture ='../src/jsm/2.png';
-billboardTextures.homeSweetHomeTexture ='../src/jsm/1.jpg';
+billboardTextures.homeSweetHomeTexture ='../src/jsm/3.jpg';
 billboardTextures.textTexture="../src/jsm/1.jpg";
 
 //box textures
@@ -40,9 +40,10 @@ let URL = {};
 URL.terpsolutions =
   'https://j1am1ng.github.io/warehouseManagement/';
 URL.githubBagholder= 'https://lalbj.github.io/ali-fe/index.html';
+URL.githubHomeSweetHome = 'https://coooder-x.github.io/three.js-demo1/';
 /*URL.ryanfloyd = 'https://ryanfloyd.io';
 
-URL.homeSweetHomeURL = 'https://github.com/MrRyanFloyd/home-sweet-127.0.0.1';
+
 URL.gitHub = 'https://github.com/MrRyanFloyd/Portfolio_2020';
 URL.twitter = 'http://m.baidu.com';
 URL.LinkedIn = 'https://www.linkedin.com/in/ryan-floyd/';
