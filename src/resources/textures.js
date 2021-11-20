@@ -1,9 +1,9 @@
 //billboardTextures
 let billboardTextures = {};
-billboardTextures.terpSolutionsTexture = '../src/jsm/1.png';
-billboardTextures.bagHolderBetsTexture ='../src/jsm/2.png';
-billboardTextures.homeSweetHomeTexture ='../src/jsm/3.jpg';
-billboardTextures.textTexture="../src/jsm/4.png";
+billboardTextures.terpSolutionsTexture = 'https://xielifen.github.io/three.js-master/src/jsm/1.png';
+billboardTextures.bagHolderBetsTexture ='https://xielifen.github.io/three.js-master/src/jsm/2.png';
+billboardTextures.homeSweetHomeTexture ='https://xielifen.github.io/three.js-master/src/jsm/3.JPG';
+billboardTextures.textTexture="https://xielifen.github.io/three.js-master/src/jsm/4.png";
 
 //box textures
 let boxTexture = {};
