@@ -14,14 +14,14 @@ boxTexture.mail = '../src/jsm/envelope.png';
 boxTexture.globe = '../src/jsm/thunder.png';
 boxTexture.reactIcon = '../src/jsm/react.png';
 boxTexture.allSkills = '../src/jsm/allSkills.png';
-boxTexture.lensFlareMain = '../src/jsm/lensflare0.png';
+boxTexture.lensFlareMain = 'https://xielifen.github.io/three.js-master/src/jsm/lensflare0.png';
 boxTexture.skrillex = '../src/jsm/skrillex.png';
 boxTexture.edmText = '../src/jsm/EDM.png';
 boxTexture.writing = '../src/jsm/writing.png';
 
 //material textures
-let stoneTexture = '../src/jsm/stone.png';
-let woodTexture = '../src/jsm/woodTexture.jpg';
+let stoneTexture = 'https://xielifen.github.io/three.js-master/src/jsm/stone.png';
+let woodTexture = 'https://xielifen.github.io/three.js-master/src/jsm/woodTexture.jpg';
 
 //text
 let inputText = {};
