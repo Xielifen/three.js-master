@@ -3,7 +3,7 @@ let billboardTextures = {};
 billboardTextures.terpSolutionsTexture = '../src/jsm/1.png';
 billboardTextures.bagHolderBetsTexture ='../src/jsm/2.png';
 billboardTextures.homeSweetHomeTexture ='../src/jsm/3.jpg';
-billboardTextures.textTexture="../src/jsm/1.jpg";
+billboardTextures.textTexture="../src/jsm/4.png";
 
 //box textures
 let boxTexture = {};
@@ -41,6 +41,7 @@ URL.terpsolutions =
   'https://j1am1ng.github.io/warehouseManagement/';
 URL.githubBagholder= 'https://lalbj.github.io/ali-fe/index.html';
 URL.githubHomeSweetHome = 'https://coooder-x.github.io/three.js-demo1/';
+URL.solutions = "http://projet.handsonic.top/";
 /*
 URL.solutions = "https://m.baidu.com";
 URL.ryanfloyd = 'https://ryanfloyd.io';
